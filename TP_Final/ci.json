@@ -1,0 +1,488 @@
+[
+    {
+        "ciID": 2,
+        "ciName": "useast1-dcc-001",
+        "ciBrand": "Juniper",
+        "ciModel": "MX480",
+        "neighbors": [
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "ciID": 3,
+        "ciName": "useast1-dcc-002",
+        "ciBrand": "Juniper",
+        "ciModel": "MX480",
+        "neighbors": [
+            7,
+            8,
+            9
+        ]
+    },
+    {
+        "ciID": 4,
+        "ciName": "useast1-dcd-001",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 2500",
+        "neighbors": [
+            2,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "ciID": 5,
+        "ciName": "useast1-dcd-002",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 2500",
+        "neighbors": [
+            2,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "ciID": 6,
+        "ciName": "useast1-dcd-003",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 2500",
+        "neighbors": [
+            2,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "ciID": 7,
+        "ciName": "useast1-dcd-004",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 2500",
+        "neighbors": [
+            3,
+            19,
+            20,
+            21
+        ]
+    },
+    {
+        "ciID": 8,
+        "ciName": "useast1-dcd-005",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 2500",
+        "neighbors": [
+            3,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "ciID": 9,
+        "ciName": "useast1-dcd-006",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 2500",
+        "neighbors": [
+            3,
+            25,
+            26,
+            27
+        ]
+    },
+    {
+        "ciID": 10,
+        "ciName": "useast1-dcd-101",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            4,
+            28,
+            29
+        ]
+    },
+    {
+        "ciID": 11,
+        "ciName": "useast1-dcd-102",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            4,
+            30,
+            31
+        ]
+    },
+    {
+        "ciID": 12,
+        "ciName": "useast1-dcd-103",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            4,
+            32,
+            33
+        ]
+    },
+    {
+        "ciID": 13,
+        "ciName": "useast1-dcd-104",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            5,
+            34,
+            35
+        ]
+    },
+    {
+        "ciID": 14,
+        "ciName": "useast1-dcd-105",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            5,
+            36,
+            37
+        ]
+    },
+    {
+        "ciID": 15,
+        "ciName": "useast1-dcd-106",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            5,
+            38,
+            39
+        ]
+    },
+    {
+        "ciID": 16,
+        "ciName": "useast1-dcd-107",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            6
+        ]
+    },
+    {
+        "ciID": 17,
+        "ciName": "useast1-dcd-108",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            6
+        ]
+    },
+    {
+        "ciID": 18,
+        "ciName": "useast1-dcd-109",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            6
+        ]
+    },
+    {
+        "ciID": 19,
+        "ciName": "useast1-dcd-110",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            7,
+            40
+        ]
+    },
+    {
+        "ciID": 20,
+        "ciName": "useast1-dcd-111",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            7,
+            41
+        ]
+    },
+    {
+        "ciID": 21,
+        "ciName": "useast1-dcd-112",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            7,
+            42
+        ]
+    },
+    {
+        "ciID": 22,
+        "ciName": "useast1-dcd-113",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            8,
+            43
+        ]
+    },
+    {
+        "ciID": 23,
+        "ciName": "useast1-dcd-114",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            8,
+            44
+        ]
+    },
+    {
+        "ciID": 24,
+        "ciName": "useast1-dcd-115",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            8,
+            45
+        ]
+    },
+    {
+        "ciID": 25,
+        "ciName": "useast1-dcd-116",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            9,
+            46,
+            47
+        ]
+    },
+    {
+        "ciID": 26,
+        "ciName": "useast1-dcd-117",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            9,
+            48
+        ]
+    },
+    {
+        "ciID": 27,
+        "ciName": "useast1-dcd-118",
+        "ciBrand": "Juniper",
+        "ciModel": "VCF 1100",
+        "neighbors": [
+            9,
+            49
+        ]
+    },
+    {
+        "ciID": 28,
+        "ciName": "useast1-tor-001",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 9300",
+        "neighbors": [
+            10,
+            50,
+            51
+        ]
+    },
+    {
+        "ciID": 29,
+        "ciName": "useast1-tor-002",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 9300",
+        "neighbors": [
+            10,
+            54
+        ]
+    },
+    {
+        "ciID": 30,
+        "ciName": "useast1-tor-003",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 9300",
+        "neighbors": [
+            11
+        ]
+    },
+    {
+        "ciID": 31,
+        "ciName": "useast1-tor-004",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 9300",
+        "neighbors": [
+            11
+        ]
+    },
+    {
+        "ciID": 32,
+        "ciName": "useast1-tor-005",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 9300",
+        "neighbors": [
+            12
+        ]
+    },
+    {
+        "ciID": 33,
+        "ciName": "useast1-tor-006",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 9300",
+        "neighbors": [
+            12,
+            55
+        ]
+    },
+    {
+        "ciID": 34,
+        "ciName": "useast1-tor-007",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 9300",
+        "neighbors": [
+            13
+        ]
+    },
+    {
+        "ciID": 35,
+        "ciName": "useast1-tor-008",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 9300",
+        "neighbors": [
+            13
+        ]
+    },
+    {
+        "ciID": 36,
+        "ciName": "useast1-tor-009",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 9300",
+        "neighbors": [
+            14
+        ]
+    },
+    {
+        "ciID": 37,
+        "ciName": "useast1-tor-010",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 9300",
+        "neighbors": [
+            14,
+            56
+        ]
+    },
+    {
+        "ciID": 38,
+        "ciName": "useast1-boa-001",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 3750",
+        "neighbors": [
+            15
+        ]
+    },
+    {
+        "ciID": 39,
+        "ciName": "useast1-boa-002",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 3750",
+        "neighbors": [
+            15
+        ]
+    },
+    {
+        "ciID": 40,
+        "ciName": "useast1-boa-003",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 3750",
+        "neighbors": [
+            19,
+            52
+        ]
+    },
+    {
+        "ciID": 41,
+        "ciName": "useast1-boa-004",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 3750",
+        "neighbors": [
+            20,
+            53
+        ]
+    },
+    {
+        "ciID": 42,
+        "ciName": "useast1-boa-005",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 3750",
+        "neighbors": [
+            21
+        ]
+    },
+    {
+        "ciID": 43,
+        "ciName": "useast1-boa-006",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 3750",
+        "neighbors": [
+            22
+        ]
+    },
+    {
+        "ciID": 44,
+        "ciName": "useast1-boa-007",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 3750",
+        "neighbors": [
+            23,
+            57
+        ]
+    },
+    {
+        "ciID": 45,
+        "ciName": "useast1-boa-008",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 3750",
+        "neighbors": [
+            24
+        ]
+    },
+    {
+        "ciID": 46,
+        "ciName": "useast1-boa-009",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 3750",
+        "neighbors": [
+            25
+        ]
+    },
+    {
+        "ciID": 47,
+        "ciName": "useast1-boa-010",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 3750",
+        "neighbors": [
+            25,
+            58
+        ]
+    },
+    {
+        "ciID": 48,
+        "ciName": "useast1-boa-011",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 3750",
+        "neighbors": [
+            26
+        ]
+    },
+    {
+        "ciID": 49,
+        "ciName": "useast1-boa-012",
+        "ciBrand": "Cisco",
+        "ciModel": "Catalyst 3750",
+        "neighbors": [
+            27,
+            59
+        ]
+    }
+]
