@@ -24,4 +24,12 @@
 <p>La topología será cargada en forma manual, simulando una estructura de árbol.</p>
 <p>Un script de Python ejecutara la sentencia SQL para extraer la información, y guardara el resultado en un archivo en formato Json</p>
 
-![alt text](../images/DER.png)
+![alt text](../Images/DER.png)
+
+### Base de Datos de Grafos
+
+<p>La base de datos a utilizar será Neo4j Community Edition, por ser de código abierto (Open Source), y por la amplia documentación existente. </p>
+<p>La carga de datos sera por script en Python, que cargara en modo “bulk” por lectura del archivo extraído anteriormente. </p>
+<p>La siguiente figura demuestra el resultado de la carga de la informacion, y la visualizacion de la misma provista por la misma base de datos </p>
+
+![alt text](../Images/TPFinal-Grafo1.jpg)
