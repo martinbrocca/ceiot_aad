@@ -24,4 +24,4 @@
 <p>La topología será cargada en forma manual, simulando una estructura de árbol.</p>
 <p>Un script de Python ejecutara la sentencia SQL para extraer la información, y guardara el resultado en un archivo en formato Json</p>
 
-![alt text] (../images/DER.png)
+![alt text](../images/DER.png)
