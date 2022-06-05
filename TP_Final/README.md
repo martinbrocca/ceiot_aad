@@ -26,6 +26,8 @@
 
 ![alt text](../Images/DER.png)
 
+<p>El siguiente script SQL fue utilzado para la creacion de las tablas puede </p>(./CI_DB_Creation.sql)
+
 ### Base de Datos de Grafos
 
 <p>La base de datos a utilizar será Neo4j Community Edition, por ser de código abierto (Open Source), y por la amplia documentación existente. </p>
