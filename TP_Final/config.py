@@ -5,7 +5,8 @@ from pandas import isnull
 
 
 def config(filename, section):
-#def config(filename, section):
+#"""Config (Filename (ini file containing the sections of the application configuration, 
+#    Section, containing the specific system config parameters """
     if filename == "":
         filename ='C:\\Users\\marti\\OneDrive\\Documents\\CEIOT\\AAD\\TP_Final\\database.ini'
   
