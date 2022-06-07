@@ -34,7 +34,7 @@
 
 <figure>
     <img src="../Images/DER.png"
-         alt="Diseño modelo relacional">
+         alt="Diseño modelo relacional" width="400" height="600">
     <figcaption>Esquema del modelo DER para la solucion propuesta</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@
 
 <figure>
     <img src="../Images/TPFinal-Grafo1.jpg"
-         alt="Representacion de la conexion entre entidades en la base de grafos">
+         alt="Representacion de la conexion entre entidades en la base de grafos"  width="800" height="600">
     <figcaption>Representacion en Neo4j de la relacion de conexiones entre dispositivos para el ejercicio</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@
 <p>La aplicacion utlizada para la carga de informacion, como para la extraccion de la base de datos relacional y el transporte a la base de grafos fue desarrollada en Python.</p>
 <figure>
     <img src="../Images/Esquema Aplicacion Python.jpeg"
-         alt="Representacion de ejecucion de aplicacion Python para carga, transformacion y subida de datos entre BDs.">
+         alt="Representacion de ejecucion de aplicacion Python para carga, transformacion y subida de datos entre BDs." width="400" height="400">
     <figcaption>Representacion de ejecucion de aplicacion Python para carga, transformacion y subida de datos entre BDs.</figcaption>
 </figure>
 
